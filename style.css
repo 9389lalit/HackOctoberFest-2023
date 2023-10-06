@@ -36,6 +36,7 @@ nav ul li:hover {
     background: #00939C;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -44,8 +45,19 @@ nav ul li:hover {
     height: 3000px;
 }
 .two{
+=======
+.two {
+    height: 3000px;
+}
+
+.two {
+>>>>>>> b78a483 (modify UI)
     width: 100%;
     display: flex;
     text-align: center;
     justify-content: center;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b78a483 (modify UI)
